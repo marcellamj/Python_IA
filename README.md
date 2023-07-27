@@ -1,5 +1,6 @@
 # Projeto Python com IA : Inteligência Artificial e Previsões
 Aprendizados de Criação de Modelo de IA com o scikit-learn
+
 Case: Score de Crédito dos Clientes
 
 * Importação das bibliotecas
